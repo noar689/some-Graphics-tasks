@@ -104,16 +104,6 @@ A symmetrical flower drawn with multiple petals using loops in Python Turtle.
 📂 **Files**:
 - [`flower.py`](BlossomFlower/flower.py) - Project code
 
----
-
-## 📌 How to Run
-To run any of the projects, use:
-```sh
-python project_name.py
-```
-Replace `project_name.py` with the corresponding file name.
-
----
 
 ⭐ **Feel free to explore, modify, and contribute!**
 
